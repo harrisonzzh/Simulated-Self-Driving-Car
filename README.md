@@ -8,7 +8,7 @@ and implemented with Tensorflow/Keras. <br /><br />
 
 |Mountain Track|
 |:------------:|
-|<img src="https://github.com/harrisonzzh/Simulated-Self-Driving-Car/blob/master/report/img.png" alt="alt text" width="500" height="whatever">|
+|<img src="https://github.com/harrisonzzh/Simulated-Self-Driving-Car/blob/master/report/img.png" alt="alt text" width="600" height="whatever">|
 |[YouTube Link](https://www.youtube.com/watch?v=O75wfU4zAiU)|
 
 
@@ -25,4 +25,4 @@ conda env create -f environment-gpu.yml
 <br />
 
 ### Workflow Diagram
-![Alt text](report/report.001.jpeg)
+<img src="https://github.com/harrisonzzh/Simulated-Self-Driving-Car/blob/master/report/report.001.jpeg" alt="alt text" width="800" height="whatever">
